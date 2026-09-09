@@ -1,1 +1,8 @@
 .vscode
+
+# Local environment files contain secrets.
+.env
+.env.*
+!.env.example
+
+plans/
